@@ -89,7 +89,7 @@ exit
 # root@ip-:/var/www# sudo chmod -R 2771 html/
 command "sudo chmod -R 2771 html/" recursively changes the permissions of the "dev" directory and its subdirectories, setting the permissions to 2771. The '2' at the beginning indicates the setgid permission, which means newly created files and directories within "dev" will inherit the group ownership of the parent directory, ensuring consistent group ownership. The '771' represents read, write, and execute permissions for the owner of the directory and group, while others have read and execute permissions. This command is often used for shared directories where multiple users need access and collaborative permissions management.
 
-#you can restart the jenkins follow below pipleine code and run 
+#you can restart the jenkinsand check putput OR  follow below pipeline code and run 
 
 •	 Shell Commands 
 
