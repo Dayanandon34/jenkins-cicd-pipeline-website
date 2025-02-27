@@ -1,0 +1,1 @@
+test file to store the configuration or requirement related data
