@@ -7,7 +7,7 @@ CREATE A CICD PIPLINE AND  DEPLOY A WEBSITE IN APACHE WEBSERVER HOSTED ON AWS US
 ![image](https://github.com/Aseemakram19/website-ci-cd-pipline/assets/113539818/e780b80e-b5e9-4655-9e63-6e5e948537fd)
 
 
-STEPS TO BE FOLLOWED .
+STEPS TO BE FOLLOWED to make CICD
 FOLLOWS TUTORIALS & GITHUB FOR PROJECT 
 	JENKINS INTRODUCTION https://youtu.be/L8B2i_hLwVM?feature=shared 
 	JENKINS INSTALATION ON EC2 UBUNTU OS  https://youtu.be/2OyLTG7jesQ?feature=shared 
