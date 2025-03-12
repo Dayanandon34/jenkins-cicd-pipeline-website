@@ -107,7 +107,7 @@ Recent Deliveries
 We’ll send a POST request to the URL below with details of any subscribed events. You can also specify which data format you’d like to receive (JSON, x-www-form-urlencoded, etc). More information can be found in our developer documentation.
 
 	Payload URL
-http://ip:8080/github-webhook/
+http://Your_ip:8080/github-webhook/
 
 	Content type
 
