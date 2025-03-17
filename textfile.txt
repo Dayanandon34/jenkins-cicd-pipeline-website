@@ -1,2 +1,2 @@
-This text file store the configuration or requirement related data
+This text file store the configuration or requirement related data.
 
