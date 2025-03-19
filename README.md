@@ -1,7 +1,7 @@
 ![HOW TO create](https://github.com/Aseemakram19/website-ci-cd-pipline/assets/113539818/05eff408-3cea-4c77-a4d0-f2a322069cda)
 
 
-PROJECT 1 : 
+PROJECT 1: 
 CREATE A CI/CD PIPLINE AND  DEPLOY A WEBSITE IN APACHE WEBSERVER HOSTED ON AWS USING JENKINS
 
 ![image](https://github.com/Aseemakram19/website-ci-cd-pipline/assets/113539818/e780b80e-b5e9-4655-9e63-6e5e948537fd)
