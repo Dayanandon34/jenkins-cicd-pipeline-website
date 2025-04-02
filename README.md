@@ -9,7 +9,7 @@ PROJECT 1:
 
 STEPS TO BE FOLLOWED to make CI/CD:
 FOLLOWS TUTORIALS & GITHUB FOR PROJECT-
-	JENKINS INTRODUCTION https://youtu.be/L8B2i_hLwVM?feature=shared 
+	JENKINS INTRODUCTION https://youtu.be/L8B2i_hLwVM?feature=shared
 	JENKINS INSTALATION ON EC2 UBUNTU OS  https://youtu.be/2OyLTG7jesQ?feature=shared
 	PROJECT WEBSITE REPOSITORY : website1/Aseem-brainwave-html.zip at dev · Aseemakram19/website1 (github.com)
 
