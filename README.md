@@ -20,6 +20,7 @@ PREREQUESTION :
 3.	CREATE JOB , FREE STYLE PROJECT
 4.	PROVIDE CREDENTIALS TO GITHUB INTEGRATION FOR PUBLIC/PRIVATE REPO
 
+
 2. CREATING A PIPELINE FOR Deployment of our Website from Main BRANCH
 Building in workspace /var/lib/jenkins/workspace/jenkins-cicd-yt
 
