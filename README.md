@@ -34,7 +34,7 @@ Pipeline console failure:
 
 Switch to root user
 # sudo su –
-Change to working direcotry 
+Change to working direcotry
 root@ip-10-0-1-115:/home/ubuntu# cd /var/www
 
 root@ip-10-0-1-115:/var/www# ls -l
