@@ -28,7 +28,7 @@ Open mobaxterm & access severwith credentials.
 # cd /var/lib/jenkins/workspace/jenkins-cicd-yt
 pipeline build appears
 
-Pipeline console failure: 
+Pipeline console failure:
 
 	ENABLING PERMISSION FOR DEPLOYMENT THROUGH CLI
 
