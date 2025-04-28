@@ -73,7 +73,7 @@ The sudo chown jenkins:www-data html command is used to change the ownership of 
 
 # root@ip-:/var/www# ls -la
 total 20
-drwxr-xr-x  5 root    root     4096 Oct  5 09:18 .
+drwxr-xr-x  5 root    root     4096 Oct  5 09:18 ..
 drwxr-xr-x 14 root    root     4096 Oct  5 09:10 .. 
 drwxrws--x 2 jenkins www-data  4096 Oct  5 09:10 html
 
