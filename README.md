@@ -11,7 +11,7 @@ STEPS TO BE FOLLOWED to make CI/CD:
 FOLLOWS TUTORIALS & GITHUB FOR PROJECT:
 	JENKINS INTRODUCTION https://youtu.be/L8B2i_hLwVM?feature=shared
 	JENKINS INSTALATION ON EC2 UBUNTU OS  https://youtu.be/2OyLTG7jesQ?feature=shared
-	PROJECT WEBSITE REPOSITORY : website1/Aseem-brainwave-html.zip at dev · Aseemakram19/website1 (github.com)
+	PROJECT WEBSITE REPOSITORY : website1/Aseem-brainwave-html.zip at dev · Aseemakram19/website1 (github.com) 
 
 LOGIN TO YOUR EC2 INSTANCE & INSTALL JENKINS , JENKINS PLUGINS , CREATE PIPILINE THROUGH GUI JENKINS http://ip:8080
 PREREQUESTION : 
