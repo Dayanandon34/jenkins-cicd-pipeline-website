@@ -122,7 +122,7 @@ Which events would you like to trigger this webhook?
 Just the push event.
 Send me everything.
 Let me select individual events.
-hi
+Hi
 
  Pull requests
 Pull request assigned, auto merge disabled, auto merge enabled, closed, converted to draft, demilestoned, dequeued, edited, enqueued, labeled, locked, milestoned, opened, ready for review, reopened, review request removed, review requested, synchronized, unassigned, unlabeled, or unlocked.
