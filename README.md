@@ -121,7 +121,7 @@ If you've lost or forgotten this secret, you can change it, but be aware that an
 Which events would you like to trigger this webhook?
 Just the push event.
 Send me everything.
-Let me select individual events.
+Let me select individual events
 Hi
 
  Pull requests
