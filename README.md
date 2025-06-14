@@ -24,7 +24,7 @@ PREREQUESTION :
 2. CREATING A PIPELINE FOR Deployment of our Website from Main BRANCH 
 Building in workspace /var/lib/jenkins/workspace/jenkins-cicd-yt
 
-Open mobaxterm & access severwith credentials.
+Open mobaxterm & access severwith credentials
 # cd /var/lib/jenkins/workspace/jenkins-cicd-yt
 pipeline build appears
 
