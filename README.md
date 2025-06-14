@@ -30,7 +30,7 @@ pipeline build appears
 
 Pipeline console failure::
 
-	ENABLING PERMISSION FOR DEPLOYMENT THROUGH CLI :
+	ENABLING PERMISSION FOR DEPLOYMENT THROUGH CLI:
 
 Switch to root user
 # sudo su –
