@@ -46,7 +46,7 @@ groupadd: group 'www-data' already exists
 
 
 This can be useful when you want to grant a user specific permissions or access to resources associated with the "www-data" group, which is often used for web server-related tasks in Linux systems.
-The command essentially adds the user "jenkins" to the "www-data" group without removing them from any other groups they might be a part of. 
+The command essentially adds the user "jenkins" to the "www-data" group without removing them from any other groups they might be a part of.
 
 usermod: This is the command itself, used to modify user accounts
 -aG: These are options used with usermod:
